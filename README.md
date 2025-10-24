@@ -1,12 +1,13 @@
 Olá! Me chamo Katielly!
 
 Atuo profissionalmente como Quality Assurance (QA) - Adoro explorar sistemas, encontrar falhas, entender comportamentos e ajudar o time a construir produtos mais estáveis e eficientes. 📊🔍
+Sigo me aprimorando continuamente, estudando novas ferramentas, metodologias e boas práticas para evoluir na área e entregar resultados cada vez melhores.
 
 Precisa de ajuda? Contate-me:
 
 <div>
   <a href="https://instagram.com/elly_priscyla" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-AA0099?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-9400D3?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   <a href="#" target="_blank">
@@ -26,9 +27,11 @@ Precisa de ajuda? Contate-me:
  
 </div>
 
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/katiellypriscyla/katiellypriscyla/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/katiellypriscyla/katiellypriscyla/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/katiellypriscyla/katiellypriscyla/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
