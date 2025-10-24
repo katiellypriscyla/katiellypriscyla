@@ -1,7 +1,7 @@
 Olá! Me chamo Katielly!
 
-Atuo profissionalmente como Quality Assurance (QA) - Adoro explorar sistemas, encontrar falhas, entender comportamentos e ajudar o time a construir produtos mais estáveis e eficientes. 📊🔍
-Sigo me aprimorando continuamente, estudando novas ferramentas, metodologias e boas práticas para evoluir na área e entregar resultados cada vez melhores.
+Atuo profissionalmente como Quality Assurance (QA) - Adoro explorar sistemas, encontrar falhas, entender comportamentos e ajudar o time a construir produtos mais estáveis e eficientes. 
+Sigo me aprimorando continuamente, estudando novas ferramentas, metodologias e boas práticas para evoluir na área e entregar resultados cada vez melhores.💡
 
 Precisa de ajuda? Contate-me:
 
